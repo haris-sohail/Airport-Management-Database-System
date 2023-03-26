@@ -1,0 +1,3 @@
+SELECT AVG(EMPLOYEE.salary)
+FROM EMPLOYEE
+WHERE shifts = 'night'
