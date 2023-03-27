@@ -1,4 +1,4 @@
-# i210531_Assignment_2_DB
+# i210531_i210561_Assignment_2_DB
 
 ERD Explanation:
 
