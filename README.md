@@ -1,6 +1,10 @@
-# i210531_i210561_Assignment_2_DB
+# Airport Management System
 
-ERD Explanation:
+## Q1 to Q25
+
+Queries are numbered from Q1 to Q25. Most of them are selection queries helping in the retreival of data from the database.
+
+## ERD Explanation
 
 The ERD includes the following entities: AIRPLANE, PLANE_TYPE, HANGAR, OWNER, EMPLOYEE, PILOT, PERSON, CORPORATION, SERVICE.
 
